@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=rounded&color=F8DDE8&height=160&section=header&text=hey,%20i'm%20Shamis!%20♡&fontSize=38&fontColor=65485A&animation=fadeIn)
 
 <p align="center">
-  <i>cybersecurity student • computer science graduate • always learning ♡</i>
+  <i>cybersecurity student • computer science graduate •</i>
 </p>
 
 <p align="center">
